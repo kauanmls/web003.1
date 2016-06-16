@@ -26,4 +26,10 @@ div:nth-child(9) {
 div div {
   text-align: left;
 }
-
+div div div {
+  height: 30px;
+	width: 350px;
+  border: 1px solid black;
+  background-color: white;
+  margin: auto;
+}
