@@ -23,7 +23,7 @@ div:nth-child(9) {
   background-color: blue;
   margin: auto;
 }
-spam:first-child {
+div:first-child {
   text-align: left;
   margin-top: 280px;
   margin-left: 150px;
