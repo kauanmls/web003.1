@@ -23,7 +23,7 @@ div:nth-child(9) {
   background-color: blue;
   margin: auto;
 }
-div div {
+div spam {
   text-align: left;
 }
 .classe {
