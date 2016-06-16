@@ -33,3 +33,11 @@ div spam {
   background-color: white;
   margin: auto;
 }
+spam {
+	height: 30px;
+	width: 350px;
+  border: 1px solid black;
+  background-color: white;
+  margin: auto;
+}
+
