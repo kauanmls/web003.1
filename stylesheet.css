@@ -26,7 +26,7 @@ div:nth-child(9) {
 div div {
   text-align: left;
 }
-div div div {
+div div(2) {
   height: 30px;
 	width: 350px;
   border: 1px solid black;
