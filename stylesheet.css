@@ -23,7 +23,7 @@ div:nth-child(9) {
   background-color: blue;
   margin: auto;
 }
-div:first-child {
+div div {
   text-align: left;
   margin-top: 280px;
   margin-left: 150px;
