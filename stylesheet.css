@@ -23,9 +23,6 @@ div:nth-child(9) {
   background-color: blue;
   margin: auto;
 }
-div spam {
-  text-align: left;
-}
 .classe {
   height: 30px;
 	width: 350px;
